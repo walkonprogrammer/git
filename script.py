@@ -1,3 +1,3 @@
 #!/bin/bash
 
-# this is a Python script
+# Python script by Antmin
